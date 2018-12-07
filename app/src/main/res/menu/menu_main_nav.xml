@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuNavStudent"
+        android:icon="@drawable/ic_android_black"
+        android:title="@string/students"/>
+    <item
+        android:id="@+id/menuNavMaterial"
+        android:icon="@drawable/ic_extension_black_24dp"
+        android:title="@string/material"/>
+    <item
+        android:id="@+id/menuNavProfile"
+        android:icon="@drawable/ic_face_black_24dp"
+        android:title="@string/profile"/>
+
+</menu>
